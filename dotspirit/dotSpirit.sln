@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spirit", "Spirit\Spirit.csproj", "{402ED897-6EE1-406F-A8CB-41CB2CF89340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blogger", "Blogger\Blogger.csproj", "{6E2DE041-A636-441E-822F-3C4024678DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csproj", "{CB099233-59CC-42F0-A6AB-30960325EBB8}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402ED897-6EE1-406F-A8CB-41CB2CF89340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402ED897-6EE1-406F-A8CB-41CB2CF89340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402ED897-6EE1-406F-A8CB-41CB2CF89340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402ED897-6EE1-406F-A8CB-41CB2CF89340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2DE041-A636-441E-822F-3C4024678DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2DE041-A636-441E-822F-3C4024678DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2DE041-A636-441E-822F-3C4024678DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2DE041-A636-441E-822F-3C4024678DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB099233-59CC-42F0-A6AB-30960325EBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB099233-59CC-42F0-A6AB-30960325EBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB099233-59CC-42F0-A6AB-30960325EBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB099233-59CC-42F0-A6AB-30960325EBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
